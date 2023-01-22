@@ -18,7 +18,6 @@ body {
 }
 
 .cabecalho .menu {
-    /* background-color: red; */
     display: flex;
     align-items: center;
     height: 100%;
@@ -147,10 +146,10 @@ body {
 
 footer>div>p {
     text-align: center;
-    background-color: black;
     color: #ffffff;
     max-width: 1044px;
     margin: 0 auto;
     display: flex;
     opacity: .8;
+    padding: 25px;
 }
